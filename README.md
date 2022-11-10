@@ -13,7 +13,7 @@ cd <PATH>/<WORK_DiR>
 
 #### Clone the GitHub repository:
 ```
-git clone https://github.com/Neo-Zenith/FindR-E-Commerce-Price-Comparison-App.git
+git clone https://github.com/Neo-Zenith/Project-FindR.git
 ```
 
 #### Navigate to the local repo directory:
