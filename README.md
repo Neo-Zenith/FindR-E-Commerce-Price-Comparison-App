@@ -18,7 +18,7 @@ git clone https://github.com/Neo-Zenith/Project-FindR.git
 
 #### Navigate to the local repo directory:
 ```
-cd FindR-E-Commerce-Price-Comparison-App
+cd Project-FindR
 ```
 
 #### Checkout on different branches:
