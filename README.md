@@ -32,8 +32,8 @@ git checkout dev
 ```
 
 ## 🚧 Branches
-* [*main*](https://github.com/lohiavardhan/sc2006_project/tree/main) branch holds all confirmed development
-* [*dev*](https://github.com/lohiavardhan/sc2006_project/tree/dev) branch is the branch for new and work-in-progress developments.
+* [*main*](https://github.com/Neo-Zenith/project-findr/tree/main) branch holds all confirmed development
+* [*dev*](https://github.com/Neo-Zenith/project-findr/tree/dev) branch is the branch for new and work-in-progress developments.
 
 ## 📁 File Structure
 ```
