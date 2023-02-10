@@ -33,7 +33,7 @@ git checkout dev
 
 ## 🚧 Branches
 * [*main*](https://github.com/Neo-Zenith/project-findr/tree/main) branch holds all confirmed development
-* [**NO LONGER EXIST DUE TO COMPLETED PROJECT**][*dev*](https://github.com/Neo-Zenith/project-findr/tree/dev) branch is the branch for new and work-in-progress developments.
+* [**NO LONGER EXIST**] [*dev*](https://github.com/Neo-Zenith/project-findr/tree/dev) branch is the branch for new and work-in-progress developments.
 
 ## 📁 File Structure
 ```
