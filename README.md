@@ -13,7 +13,7 @@ cd <PATH>/<WORK_DiR>
 
 #### Clone the GitHub repository:
 ```
-git clone https://github.com/Neo-Zenith/Project-FindR.git
+git clone https://github.com/Neo-Zenith/e-commerce-price-comparison-app.git
 ```
 
 #### Navigate to the local repo directory:
@@ -32,8 +32,8 @@ git checkout dev
 ```
 
 ## 🚧 Branches
-* [*main*](https://github.com/Neo-Zenith/project-findr/tree/main) branch holds all confirmed development
-* [**NO LONGER EXIST**] [*dev*](https://github.com/Neo-Zenith/project-findr/tree/dev) branch is the branch for new and work-in-progress developments.
+* [*main*](https://github.com/Neo-Zenith/e-commerce-price-comparison-app/tree/main) branch holds all confirmed development
+* [**NO LONGER EXIST**] [*dev*](https://github.com/Neo-Zenith/e-commerce-price-comparison-app/tree/dev) branch is the branch for new and work-in-progress developments.
 
 ## 📁 File Structure
 ```
